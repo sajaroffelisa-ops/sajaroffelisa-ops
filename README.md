@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+Cytometry In R
+
+Location: Buenos Aires, Argentina
+
+My Favorite Fluorophore/Metal-Isotope: APC
+
+Previous Coding Experience: A little bit on R
+
+What I Hope to Get From This Course: A faster way to match FlowSOM clusters to their likely cell type.
